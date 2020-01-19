@@ -1,0 +1,3 @@
+[submodule "packages/kanjidic-parser"]
+	path = packages/kanjidic-parser
+	url = https://github.com/Temoto-kun/murasaki-kanjidic-parser.git
