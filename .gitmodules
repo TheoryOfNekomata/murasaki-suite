@@ -1,3 +1,6 @@
 [submodule "packages/kanjidic-parser"]
 	path = packages/kanjidic-parser
 	url = https://github.com/Temoto-kun/murasaki-kanjidic-parser.git
+[submodule "packages/game-app"]
+	path = packages/game-app
+	url = https://github.com/Temoto-kun/murasaki-game-app.git
