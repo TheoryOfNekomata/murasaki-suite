@@ -1,3 +1,6 @@
 [submodule "packages/dataset-importer"]
 	path = packages/dataset-importer
 	url = https://github.com/Temoto-kun/murasaki-dataset-importer.git
+[submodule "packages/game-app"]
+	path = packages/game-app
+	url = https://github.com/Temoto-kun/murasaki-game-app.git

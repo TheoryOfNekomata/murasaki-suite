@@ -3633,6 +3633,13 @@ iconv-lite@0.4.24, iconv-lite@^0.4.24, iconv-lite@~0.4.13:
   dependencies:
     safer-buffer ">= 2.1.2 < 3"
 
+iconv-lite@^0.5.1:
+  version "0.5.1"
+  resolved "https://registry.yarnpkg.com/iconv-lite/-/iconv-lite-0.5.1.tgz#b2425d3c7b18f7219f2ca663d103bddb91718d64"
+  integrity sha512-ONHr16SQvKZNSqjQT9gy5z24Jw+uqfO02/ngBSBoqChZ+W8qXX7GPRa1RoUnzGADw8K63R1BXUMzarCVQBpY8Q==
+  dependencies:
+    safer-buffer ">= 2.1.2 < 3"
+
 iferr@^0.1.5:
   version "0.1.5"
   resolved "https://registry.yarnpkg.com/iferr/-/iferr-0.1.5.tgz#c60eed69e6d8fdb6b3104a1fcbca1c192dc5b501"
@@ -4597,6 +4604,13 @@ levn@~0.3.0:
   dependencies:
     prelude-ls "~1.1.2"
     type-check "~0.3.2"
+
+line-stream@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/line-stream/-/line-stream-1.0.0.tgz#d3e3853174803fd31369c0e4366cb0808b42ade7"
+  integrity sha1-0+OFMXSAP9MTacDkNmywgItCrec=
+  dependencies:
+    through2 "^2.0.0"
 
 load-json-file@^1.0.0:
   version "1.1.0"
@@ -7090,6 +7104,13 @@ ws@^5.2.0:
   integrity sha512-jaHFD6PFv6UgoIVda6qZllptQsMlDEJkTQcybzzXDYM1XO9Y8em691FGMPmM46WGyLU4z9KMgQN+qrux/nhlHA==
   dependencies:
     async-limiter "~1.0.0"
+
+xml-js@^1.6.11:
+  version "1.6.11"
+  resolved "https://registry.yarnpkg.com/xml-js/-/xml-js-1.6.11.tgz#927d2f6947f7f1c19a316dd8eea3614e8b18f8e9"
+  integrity sha512-7rVi2KMfwfWFl+GpPg6m80IVMWXLRjO+PxTq7V2CDhoGak0wzYzFgUY2m4XJ47OGdXd8eLE8EmwfAmdjw7lC1g==
+  dependencies:
+    sax "^1.2.4"
 
 xml-name-validator@^3.0.0:
   version "3.0.0"
