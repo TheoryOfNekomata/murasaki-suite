@@ -1,3 +1,3 @@
-[submodule "packages/kanjidic-parser"]
-	path = packages/kanjidic-parser
-	url = https://github.com/Temoto-kun/murasaki-kanjidic-parser.git
+[submodule "packages/dataset-importer"]
+	path = packages/dataset-importer
+	url = https://github.com/Temoto-kun/murasaki-dataset-importer.git
