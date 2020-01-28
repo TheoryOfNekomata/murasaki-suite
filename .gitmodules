@@ -4,3 +4,6 @@
 [submodule "packages/game-app"]
 	path = packages/game-app
 	url = https://github.com/Temoto-kun/murasaki-game-app.git
+[submodule "packages/cli"]
+	path = packages/cli
+	url = https://github.com/Temoto-kun/murasaki-cli.git
